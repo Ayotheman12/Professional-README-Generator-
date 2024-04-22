@@ -25,11 +25,5 @@
 
 - For any other developers wanting to contribute you can clone the repository and make your own branch to apply your own changes. When you are done with your changes, push your branch up to the origin and make a pull request.
 
-## Questions
 
-- My [github](https://github.com/noah-10)
-- My email: noah.fryman.10@gmail.com
 
-## Demo
-
-- Watch the demo [video](https://watch.screencastify.com/v/LKkCsrLf2E3C2bFwSvs7)

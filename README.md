@@ -20,7 +20,6 @@
 ## Usage
 
 - To be able to use make sure you open the terminal in the develop folder and install all required packages. You can accomplish this by typing "npm i". From there, in the terminal you can type, "node index.js" and in the terminal it will begin to prompt you questions.
-- A walkthrough of the functionality of the tool is provided in the following video:
 
 ## Contributing
 
